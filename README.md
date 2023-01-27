@@ -12,10 +12,6 @@ All data in this repository were scraped from Apoia.se crowdfunding platform. Da
 
 ![Gráfico4](graficos/cfplot4.png)
 
-![Gráfico5](graficos/cfplot5.png)
-
-![Gráfico6](graficos/cfplot6.png)
-
 
 ## Recognizing the files
 
