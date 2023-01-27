@@ -1,16 +1,10 @@
 # data_crowdfunding
 
-## Sumário
-Scripts e dados utilizados para a construção do artigo "Tirando do bolso para financiar a rede bolsonarista...", apresentado por Viktor Chagas, Michele Massuchin e Natalia Dias, no 12º Encontro da ABCP.
+Scripts and data used in article "Tirando do bolso para financiar a rede bolsonarista...", presented by Viktor Chagas, Michele Massuchin and Natalia Dias, during the 12nd Biannual Conference of the Brazilian Political Science Association.
 
-Ver [http://colab-uff.github.io/](http://colab-uff.github.io/) para orientações de uso e referência dos dados.
+Please refer to [colab.uff.br](http://colab-uff.github.io/) for instructions on using and citing these data.
 
-## Coleta de dados
-Os dados foram raspados da plataforma Apoia.se em março e setembro de 2020 a partir das palavras-chaves "direita" e "bolsonaro". O script em R modelou a base de dados e plotou os gráficos que integram este mesmo repositório. 
-
-## Gráficos
-
-![Gráfico1](graficos/cfplot1.png)
+All data in this repository were scraped from Apoia.se crowdfunding platform. Datasets include data from March to September 2020 and were collected using keywords such as "direita" (*right-wing*) and "bolsonaro". An R script was used to model and plot the charts. 
 
 ![Gráfico2](graficos/cfplot2.png)
 
@@ -21,19 +15,6 @@ Os dados foram raspados da plataforma Apoia.se em março e setembro de 2020 a pa
 ![Gráfico5](graficos/cfplot5.png)
 
 ![Gráfico6](graficos/cfplot6.png)
-
-![Gráfico7](graficos/cfplot7.png)
-
-
-# data_crowdfunding
-
-Scripts and data used in article "Tirando do bolso para financiar a rede bolsonarista...", presented by Viktor Chagas, Michele Massuchin and Natalia Dias, during the 12nd Biannual Conference of the Brazilian Political Science Association.
-
-Please refer to [colab.uff.br](http://colab-uff.github.io/) for instructions on using and citing these data.
-
-All data in this repository were scraped from Apoia.se crowdfunding platform. Datasets include data from March to September 2020 and were collected using keywords such as "direita" (*right-wing*) and "bolsonaro". An R script was used to model and plot the charts. 
-
-![](https://raw.githubusercontent.com/ombudsmanviktor/data_anticiencia/main/charts/figura6.png)
 
 
 ## Recognizing the files
